@@ -1,5 +1,5 @@
 ---
 title: CV
-layout: CV
+layout: home
 ---
 Stepan Hatting
