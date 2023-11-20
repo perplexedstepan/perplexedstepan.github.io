@@ -8,16 +8,16 @@ nav_order: 2
 *#EducationalTechnology*
 {: .label }
 *#WebDesign*
-{: .label }
+{: .label .label-yellow }
 *#UI*
-{: .label }
+{: .label .label-red }
 *#UX*
-{: .label }
+{: .label .label-orange }
 *#Python*
-{: .label }
+{: .label .label-purple }
 *#PromptEngineering*
 {: .label }
 *#Android*
-{: .label }
+{: .label .label-green }
 *#OpenSource*
 {: .label }
