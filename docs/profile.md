@@ -3,7 +3,7 @@ layout: default
 title: Profile
 nav_order: 2
 ---
-
+![](../../assets/images/ProfPic2023-framed-small.png)
 # [](#header-1)Stepan Hatting
 *#EducationalTechnology*
 {: .label }
