@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Cybersecurity Training
-nav_order: 3
+parent: Projects
+nav_order: 1
 ---
 
 Here you will find some useful code for implementing a virtual escape room for cybersecurity trainings.
