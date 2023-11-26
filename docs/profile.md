@@ -22,9 +22,9 @@ nav_order: 2
 *#OpenSource*
 {: .label }
 
-📍 Tabuk, Saudi Arabia 🇸🇦
-🎓 M-IT from NMSU (current student)
-🎓 B.A. Linguistics (graduated)
+📍 _Tabuk, Saudi Arabia_ 🇸🇦
+🎓 _M-IT from NMSU_ (current student)
+🎓 _B.A. Linguistics_ (graduated)
 
 ## [](#Certifications)Certifications
 * Responsive Web Design
@@ -38,20 +38,20 @@ nav_order: 2
 ## [](#Proficiency)Technology Proficiency
 
 #### [](#AI-Models)🤖 AI Models & Natural Language Processing
-* ChatGPT
-* Google Bard
-* Claude 2
-* Wizard v1.2
-* Orca 2
+* _ChatGPT_
+* _Google Bard_
+* _Claude 2_
+* _Wizard v1.2_
+* _Orca 2_
 
 #### [](#Virtualization)💻 Virtualization
-* VirtualBox
-* AWS
+* _VirtualBox_
+* _AWS_
 
 #### [](#Programming-Languages)🧑🏼‍💻 Programming Languages
-* HTML
-* CSS
-* Python
-* Javascript
-* Linux
-* Java
+* _HTML_
+* _CSS_
+* _Python_
+* _Javascript_
+* _Linux_
+* _Java_
