@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Privacy
-nav_order: 4
+parent: Projects
+nav_order: 2
 ---
 
 I have attempted to compile a list of resources and tools for individuals to consult and use in order to exhert more control over their privacy online.
