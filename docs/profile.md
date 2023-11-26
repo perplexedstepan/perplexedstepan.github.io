@@ -52,5 +52,6 @@ nav_order: 2
 * HTML
 * CSS
 * Python
+* Javascript
 * Linux
 * Java
