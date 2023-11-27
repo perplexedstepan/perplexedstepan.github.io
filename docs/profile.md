@@ -2,6 +2,7 @@
 layout: default
 title: Profile
 nav_order: 2
+has_children: true
 ---
 ![](../../assets/images/ProfPic2023-framed-small.png)
 # [](#Stepan-Hatting)Stepan Hatting
