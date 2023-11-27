@@ -5,14 +5,8 @@ parent: Projects
 nav_order: 1
 ---
 
-Here you will find some useful code for implementing a virtual escape room for cybersecurity trainings.
+In November of 2023, I created a Virtual Escape Room for a cybersecurity training program which uses concepts related to phishing, passwords, IR policies, and social engineering attacks.
 
-Password field code
+To play, you can [go to the Google Site](https://sites.google.com/view/cs-escaperoom/home) which hosts it.
 
-Puzzle 1: Emails (Phishing)
-
-Puzzle 2: Passwords (Brute Force Hacking)
-
-Puzzle 3: Your Company's IR Policy
-
-Puzzle 4: GPT (Social Engineering)
+If you want to find information about its documentation and how to implement it in your own Cybersecurity Training program, you can [go to its Github repository page](https://github.com/perplexedstepan/cybersecurityescaperoom).
