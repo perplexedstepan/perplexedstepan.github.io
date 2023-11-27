@@ -28,13 +28,7 @@ has_children: true
 🎓 _B.A. Linguistics_ (graduated)
 
 ## [](#Certifications)Certifications
-* Responsive Web Design
-* Prompt Engineering for Everyone with ChatGPT and GPT-4
-* The Complete Prompt Engineering for AI Bootcamp (2023)
-* CS50x from Harvard University
-* CS50P from Harvard University
-* Computer Science for Python Programming (through edX)
-* Ready Player 50 Prompt Hacking Competition from Harvard University
+(Please scroll down to find my certifications on a separate subpage.)
 
 ## [](#Proficiency)Technology Proficiency
 
