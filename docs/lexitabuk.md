@@ -62,12 +62,12 @@ After you select your topic, you can choose the word or phrase to hear it spoken
 ### How to Use the App in the Best Way
 
 For the most optimal results in your English language learning, it is recommended to do the following:
-    1.   Listen to the word or phrase by tapping on it. (If you are searching for the word or phrase from your Student Companion, you might need to scroll in order to find it.)
-    2.   Press `Record` and record yourself speaking by using your phone's microphone.
-    3.   Press `Stop Recording` and then press `Listen` in order to hear your pronunciation. Was it similar to what you heard from your phone?
-    4.   Check your pronunciation with the word you were practicing with by tapping on the word again.
-    5.   Now try using that word in a sentence.
-    6.   When you feel like you've mastered the word or phrase, continue to the next one.
+1. Listen to the word or phrase by tapping on it. (If you are searching for the word or phrase from your Student Companion, you might need to scroll in order to find it.)
+2. Press `Record` and record yourself speaking by using your phone's microphone.
+3. Press `Stop Recording` and then press `Listen` in order to hear your pronunciation. Was it similar to what you heard from your phone?
+4. Check your pronunciation with the word you were practicing with by tapping on the word again.
+5. Now try using that word in a sentence.
+6. When you feel like you've mastered the word or phrase, continue to the next one.
 
 ![User Experience](/assets/gifs/user_experience(cropped).gif)
 
