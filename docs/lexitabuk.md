@@ -37,35 +37,37 @@ Note: Regular updates and additional features will be rolled out to enhance your
 
 ## [](#Usage) Usage
 
-1. To begin using the app, locate the app on your phone's screen. Tap on it and accept the permissions allowing the app to access your microphone. (The request to accept the permissions should only appear on the first launch.)
+### Open the App
+
+To begin using the app, locate the app on your phone's screen. Tap on it and accept the permissions allowing the app to access your microphone. (The request to accept the permissions should only appear on the first launch.)
 
 ### Select Your Class
 
-2. You will be prompted to choose your class every time that you open the app, but if you want to change your class without restarting the app, you can do so using the `Select Class` button.
+You will be prompted to choose your class every time that you open the app, but if you want to change your class without restarting the app, you can do so using the `Select Class` button.
 
 ![Select Class](/assets/gifs/select_class(cropped).gif)
 
 ### Select the Topic
 
-3. hoose a topic after choosing your class by tapping on the `Select Topic` button. This will reveal a list of topics specifically for that class, so make sure that you choose your correct class.
+Choose a topic after choosing your class by tapping on the `Select Topic` button. This will reveal a list of topics specifically for that class, so make sure that you choose your correct class.
 
 ![Select Topic](/assets/gifs/select_topic(cropped).gif)
 
 ### Select the Phrase
 
-4. After you select your topic, you can choose the word or phrase to hear it spoken through your phone's speakers. You may select the words as many times as you would like. You can also scroll to see additional words and phrases in the topic.
+After you select your topic, you can choose the word or phrase to hear it spoken through your phone's speakers. You may select the words as many times as you would like. You can also scroll to see additional words and phrases in the topic.
 
 ![Select Phrase](/assets/gifs/select_phrase(cropped).gif)
 
 ### How to Use the App in the Best Way
 
-5. For the most optimal results in your English language learning, it is recommended to do the following:
-    *   Listen to the word or phrase by tapping on it. (If you are searching for the word or phrase from your Student Companion, you might need to scroll in order to find it.)
-    *   Press `Record` and record yourself speaking by using your phone's microphone.
-    *   Press `Stop Recording` and then press `Listen` in order to hear your pronunciation. Was it similar to what you heard from your phone?
-    *   Check your pronunciation with the word you were practicing with by tapping on the word again.
-    *   Now try using that word in a sentence.
-    *   When you feel like you've mastered the word or phrase, continue to the next one.
+For the most optimal results in your English language learning, it is recommended to do the following:
+    1.   Listen to the word or phrase by tapping on it. (If you are searching for the word or phrase from your Student Companion, you might need to scroll in order to find it.)
+    2.   Press `Record` and record yourself speaking by using your phone's microphone.
+    3.   Press `Stop Recording` and then press `Listen` in order to hear your pronunciation. Was it similar to what you heard from your phone?
+    4.   Check your pronunciation with the word you were practicing with by tapping on the word again.
+    5.   Now try using that word in a sentence.
+    6.   When you feel like you've mastered the word or phrase, continue to the next one.
 
 ![User Experience](/assets/gifs/user_experience(cropped).gif)
 
