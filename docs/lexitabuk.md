@@ -69,7 +69,7 @@ Note: Regular updates and additional features will be rolled out to enhance your
 
 ![User Experience](/assets/gifs/user_experience(cropped).gif)
 
-
+For more information, [visit the Github repository](https://github.com/perplexedstepan/lexitabuk).
 
 ## [](#Acknowledgments) Acknowledgements
 
