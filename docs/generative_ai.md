@@ -51,11 +51,11 @@ While many more models exist, these are the most well known in terms of usage an
 ## [](#Implications-for-Assessment)Implications of Student Use of AI in Assessment
 Currently, there has been lots of data about the current standard nature of grades and their distributions. In general, it should resemble something like the image below.
 
-![Normal Grade Distribution](assets/images/grade_distribution(norm).png)
+![Normal Grade Distribution](/assets/images/grade_distribution(norm).png)
 
 However, as Generative AI becomes more widely used, it will inevitably require a complete overhaul of the language testing systems we have in schools and universities as the average when students use AI will likely move around 2 standard deviations from the original mean. In other words, this means that what was an average grade of 75% will we shifted up 2 standard deviations. This could mean that 80%-95% becomes the new average depending on the types of assessment that are used in the curriculum.
 
-![Predicted Grade Distribution with AI-Use](assets/images/grade_distribution(ai).png)
+![Predicted Grade Distribution with AI-Use](/assets/images/grade_distribution(ai).png)
 
 Some potential ways of countering this type of abnormal grade distribution while still allowing for students to use AI is to find a way for students to use it ethically and without the chance of cheating. Here are few of the possible ways:
 * In-Person Writing (rather than for homework)
