@@ -23,7 +23,7 @@ LexiTabuk started as a project for my Master's degree in IT. It is an user-frien
 ## [](#Installation) Installation Instructions
 
 ### Via Google Drive Link
-Access the Google Drive Link by [clicking here](). Click on the file name `LexiTabuk 1.0.3` to download the APK file.
+Access the Google Drive Link by [clicking here](https://drive.google.com/file/d/1wKxNPHtD0oUZo8-5cy14-zA1i1OSG9QQ/view?usp=sharing). Click on the file name `LexiTabuk 1.0.3` to download the APK file.
 
 After choosing the apk, you should see something like this screen.
 
