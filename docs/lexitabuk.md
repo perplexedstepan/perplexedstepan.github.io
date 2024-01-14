@@ -22,16 +22,35 @@ LexiTabuk started as a project for my Master's degree in IT. It is an user-frien
 
 ## [](#Installation) Installation Instructions
 
-### Via Google Play Store
-1. Open Google Play Store: On your Android device, launch the Google Play Store app.
-2. Search for Lexitabuk: Use the search bar to find the Lexitabuk app or use this link.
-3. Install the App: Click on the 'Install' button to download and install Lexitabuk on your device.
-
 ### Via Google Drive Link
-1. Access the Google Drive Link: Click on the provided Google Drive link to access the app's APK file.
-2. Download the APK File: Download the APK file to your device.
-3. Enable Unknown Sources: Before installation, ensure that the 'Unknown Sources' option is enabled in your device's security settings.
+Access the Google Drive Link by [clicking here](). Click on the file name `LexiTabuk 1.0.3` to download the APK file.
+
+After choosing the apk, you should see something like this screen.
+
+<img src="/assets/images/download1.png" width="50%">
+
+Turn the permissions in your Settings to `Allow` installing from Google Drive.
+
+![Turn on permissions for installing from Google Drive](/assets/gifs/permissions.gif)
+
+<table>
+<tr>
+<td><img src="/assets/images/download2.png"></td>
+<td><img src="/assets/images/download3.png"></td>
+</tr>
+<tr>
+<td>After giving permission to Google Drive go back to the file and choose "Install"</td>
+<td>After installing, open the app.</td>
+</tr>
+</table>
+
+
+Enable Unknown Sources: Before installation, ensure that the 'Unknown Sources' option is enabled in your device's security settings or Google Drive is given permissions to install apps.
+
+
 4. Install the APK: Locate the downloaded APK file in your device's file manager and tap on it to begin the installation.
+
+
 
 Note: Regular updates and additional features will be rolled out to enhance your learning experience. Stay updated with the latest version for the best performance.
 
