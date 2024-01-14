@@ -25,7 +25,7 @@ LexiTabuk started as a project for my Master's degree in IT. It is an user-frien
 ### Via Google Drive Link
 Access the Google Drive Link by [clicking here](https://drive.google.com/file/d/1wKxNPHtD0oUZo8-5cy14-zA1i1OSG9QQ/view?usp=sharing). Click on the file name `LexiTabuk 1.0.3` to download the APK file.
 
-After choosing the apk, you should see something like this screen.
+After choosing the apk, you should see something like this screen below.
 
 <img src="/assets/images/download1.png" width="50%">
 
@@ -43,14 +43,6 @@ Turn the permissions in your Settings to `Allow` installing from Google Drive.
 <td>After installing, open the app.</td>
 </tr>
 </table>
-
-
-Enable Unknown Sources: Before installation, ensure that the 'Unknown Sources' option is enabled in your device's security settings or Google Drive is given permissions to install apps.
-
-
-4. Install the APK: Locate the downloaded APK file in your device's file manager and tap on it to begin the installation.
-
-
 
 Note: Regular updates and additional features will be rolled out to enhance your learning experience. Stay updated with the latest version for the best performance.
 
