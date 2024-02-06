@@ -32,13 +32,6 @@ has_children: true
 
 ## [](#Proficiency)Technology Proficiency
 
-#### [](#AI-Models)🤖 AI Models & Natural Language Processing
-* _ChatGPT_
-* _Google Bard_
-* _Claude 2_
-* _Wizard v1.2_
-* _Orca 2_
-
 #### [](#Virtualization)💻 Virtualization
 * _VirtualBox_
 * _AWS_
