@@ -24,17 +24,17 @@ The Research Use Argument (RUA) Jupyter Notebook is an innovative tool designed 
 
 The notebook begins by guiding users through the process of crafting a well-structured research question. It prompts for key components such as population, variables, and constructs.
 
-![Research Question Input](assets/gifs/RUA0a.gif)
+![Research Question Input](/assets/gifs/RUA0a.gif)
 
 Once all inputs are provided, the notebook generates a visual representation of the research design, helping researchers conceptualize their study.
 
-![Research Design Visualization](assets/images/RUA0b.png)
+![Research Design Visualization](/assets/images/RUA0b.png)
 
 ### 2. Consequences Analysis
 
 The RUA notebook facilitates a thorough analysis of the potential consequences and benefits of the research. It prompts researchers to consider various stakeholders and incorporate relevant literature to support their claims.
 
-![Consequences Analysis Output](assets/images/RUA1.png)
+![Consequences Analysis Output](/assets/images/RUA1.png)
 
 ### 3. Methodology Design
 
@@ -54,13 +54,13 @@ The notebook provides robust tools for analyzing research data, including:
 3. Generating visualizations
 4. Interpreting findings in the context of the research question
 
-![Results Analysis](assets/gifs/RUA3.gif)
+![Results Analysis](/assets/gifs/RUA3.gif)
 
 ### 5. Discussion and Implications
 
 In the final section, the notebook assists researchers in summarizing key findings, discussing implications, addressing limitations, and suggesting directions for future research.
 
-![Discussion Output](assets/images/RUA4.png)
+![Discussion Output](/assets/images/RUA4.png)
 
 ## Why It's Useful
 
