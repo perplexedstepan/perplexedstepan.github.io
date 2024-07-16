@@ -96,3 +96,4 @@ def generate_research_question(population, independent_var, dependent_var):
 # Usage
 question = generate_research_question("ESL students", "task-based learning", "vocabulary retention")
 print(question)
+```
