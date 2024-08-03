@@ -2,7 +2,7 @@
 layout: default
 title: Privacy
 parent: Projects
-nav_order: 2
+nav_order: 5
 ---
 
 # [](#Privacy-Consciousness)Staying Privacy Conscious in a Data Harvesting World
