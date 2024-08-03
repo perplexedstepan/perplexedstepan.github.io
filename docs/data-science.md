@@ -2,7 +2,7 @@
 title: Data Science
 layout: default
 parent: Projects
-nav_order: 5
+nav_order: 2
 ---
 # [](#Introduction)Introduction
 
