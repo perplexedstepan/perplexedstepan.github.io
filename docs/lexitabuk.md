@@ -20,32 +20,6 @@ LexiTabuk started as a project for my Master's degree in IT. It is an user-frien
 *   Firebase Analytics Integration: Provides insights into learning patterns and app usage to optimize the learning experience.
 *   Intuitive User Interface: Easy-to-navigate design, ensuring a seamless user experience.
 
-## [](#Installation) Installation Instructions
-
-### Via Google Drive Link
-Access the Google Drive Link by [clicking here](https://drive.google.com/file/d/1wKxNPHtD0oUZo8-5cy14-zA1i1OSG9QQ/view?usp=sharing). Click on the file name `LexiTabuk 1.0.3` to download the APK file.
-
-After choosing the apk, you should see something like this screen below.
-
-<img src="/assets/images/download1.png" width="50%">
-
-Turn the permissions in your Settings to `Allow` installing from Google Drive.
-
-![Turn on permissions for installing from Google Drive](/assets/gifs/permissions.gif)
-
-<table>
-<tr>
-<td><img src="/assets/images/download2.png"></td>
-<td><img src="/assets/images/download3.png"></td>
-</tr>
-<tr>
-<td>After giving permission to Google Drive go back to the file and choose "Install"</td>
-<td>After installing, open the app.</td>
-</tr>
-</table>
-
-Note: Regular updates and additional features will be rolled out to enhance your learning experience. Stay updated with the latest version for the best performance.
-
 ## [](#Usage) Usage
 
 ### Open the App
