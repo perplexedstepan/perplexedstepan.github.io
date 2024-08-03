@@ -2,7 +2,7 @@
 layout: default
 title: Research Use Argument Jupyter Notebook
 parent: Projects
-nav_order: 7
+nav_order: 6
 ---
 
 # Research Use Argument (RUA) Jupyter Notebook
